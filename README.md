@@ -32,7 +32,7 @@ public class Naviya {
     private String[] currentlyLearning = {
         "Spring Boot Advanced + REST APIs",
         "Data Structures & Algorithms (DSA)",
-        "Japanese (JLPT N5 ✅ → N4)"
+        
     };
 
     private String funFact =
